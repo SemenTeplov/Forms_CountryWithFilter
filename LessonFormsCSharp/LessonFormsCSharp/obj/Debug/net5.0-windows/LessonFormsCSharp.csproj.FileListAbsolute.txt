@@ -1,0 +1,38 @@
+C:\Users\Админ\source\repos\LessonFormsCSharp\LessonFormsCSharp\bin\Debug\net5.0-windows\LessonFormsCSharp.exe
+C:\Users\Админ\source\repos\LessonFormsCSharp\LessonFormsCSharp\bin\Debug\net5.0-windows\LessonFormsCSharp.deps.json
+C:\Users\Админ\source\repos\LessonFormsCSharp\LessonFormsCSharp\bin\Debug\net5.0-windows\LessonFormsCSharp.runtimeconfig.json
+C:\Users\Админ\source\repos\LessonFormsCSharp\LessonFormsCSharp\bin\Debug\net5.0-windows\LessonFormsCSharp.runtimeconfig.dev.json
+C:\Users\Админ\source\repos\LessonFormsCSharp\LessonFormsCSharp\bin\Debug\net5.0-windows\LessonFormsCSharp.dll
+C:\Users\Админ\source\repos\LessonFormsCSharp\LessonFormsCSharp\bin\Debug\net5.0-windows\LessonFormsCSharp.pdb
+C:\Users\Админ\source\repos\LessonFormsCSharp\LessonFormsCSharp\obj\Debug\net5.0-windows\LessonFormsCSharp.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\LessonFormsCSharp\LessonFormsCSharp\obj\Debug\net5.0-windows\LessonFormsCSharp.Form1.resources
+C:\Users\Админ\source\repos\LessonFormsCSharp\LessonFormsCSharp\obj\Debug\net5.0-windows\LessonFormsCSharp.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\LessonFormsCSharp\LessonFormsCSharp\obj\Debug\net5.0-windows\LessonFormsCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\source\repos\LessonFormsCSharp\LessonFormsCSharp\obj\Debug\net5.0-windows\LessonFormsCSharp.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\LessonFormsCSharp\LessonFormsCSharp\obj\Debug\net5.0-windows\LessonFormsCSharp.AssemblyInfo.cs
+C:\Users\Админ\source\repos\LessonFormsCSharp\LessonFormsCSharp\obj\Debug\net5.0-windows\LessonFormsCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\LessonFormsCSharp\LessonFormsCSharp\obj\Debug\net5.0-windows\LessonFormsCSharp.dll
+C:\Users\Админ\source\repos\LessonFormsCSharp\LessonFormsCSharp\obj\Debug\net5.0-windows\refint\LessonFormsCSharp.dll
+C:\Users\Админ\source\repos\LessonFormsCSharp\LessonFormsCSharp\obj\Debug\net5.0-windows\LessonFormsCSharp.pdb
+C:\Users\Админ\source\repos\LessonFormsCSharp\LessonFormsCSharp\obj\Debug\net5.0-windows\LessonFormsCSharp.genruntimeconfig.cache
+C:\Users\Админ\source\repos\LessonFormsCSharp\LessonFormsCSharp\obj\Debug\net5.0-windows\ref\LessonFormsCSharp.dll
+C:\Users\Админ\source\repos\LessonFormsCSharp\LessonFormsCSharp\obj\Debug\net5.0-windows\LessonFormsCSharp.Properties.Resources.resources
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз з1А\LessonFormsCSharp\LessonFormsCSharp\bin\Debug\net5.0-windows\LessonFormsCSharp.exe
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз з1А\LessonFormsCSharp\LessonFormsCSharp\bin\Debug\net5.0-windows\LessonFormsCSharp.deps.json
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз з1А\LessonFormsCSharp\LessonFormsCSharp\bin\Debug\net5.0-windows\LessonFormsCSharp.runtimeconfig.json
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз з1А\LessonFormsCSharp\LessonFormsCSharp\bin\Debug\net5.0-windows\LessonFormsCSharp.runtimeconfig.dev.json
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз з1А\LessonFormsCSharp\LessonFormsCSharp\bin\Debug\net5.0-windows\LessonFormsCSharp.dll
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз з1А\LessonFormsCSharp\LessonFormsCSharp\bin\Debug\net5.0-windows\LessonFormsCSharp.pdb
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз з1А\LessonFormsCSharp\LessonFormsCSharp\obj\Debug\net5.0-windows\LessonFormsCSharp.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз з1А\LessonFormsCSharp\LessonFormsCSharp\obj\Debug\net5.0-windows\LessonFormsCSharp.Form1.resources
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз з1А\LessonFormsCSharp\LessonFormsCSharp\obj\Debug\net5.0-windows\LessonFormsCSharp.Properties.Resources.resources
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз з1А\LessonFormsCSharp\LessonFormsCSharp\obj\Debug\net5.0-windows\LessonFormsCSharp.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз з1А\LessonFormsCSharp\LessonFormsCSharp\obj\Debug\net5.0-windows\LessonFormsCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз з1А\LessonFormsCSharp\LessonFormsCSharp\obj\Debug\net5.0-windows\LessonFormsCSharp.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз з1А\LessonFormsCSharp\LessonFormsCSharp\obj\Debug\net5.0-windows\LessonFormsCSharp.AssemblyInfo.cs
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз з1А\LessonFormsCSharp\LessonFormsCSharp\obj\Debug\net5.0-windows\LessonFormsCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз з1А\LessonFormsCSharp\LessonFormsCSharp\obj\Debug\net5.0-windows\LessonFormsCSharp.dll
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз з1А\LessonFormsCSharp\LessonFormsCSharp\obj\Debug\net5.0-windows\refint\LessonFormsCSharp.dll
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз з1А\LessonFormsCSharp\LessonFormsCSharp\obj\Debug\net5.0-windows\LessonFormsCSharp.pdb
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз з1А\LessonFormsCSharp\LessonFormsCSharp\obj\Debug\net5.0-windows\LessonFormsCSharp.genruntimeconfig.cache
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз з1А\LessonFormsCSharp\LessonFormsCSharp\obj\Debug\net5.0-windows\ref\LessonFormsCSharp.dll
